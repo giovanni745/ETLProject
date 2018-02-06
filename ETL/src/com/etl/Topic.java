@@ -1,5 +1,5 @@
 package com.etl;
-
+ 
 public class Topic implements Kafka {
     private long eventId;
     private String eventTimeTamp;

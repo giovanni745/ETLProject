@@ -2,7 +2,7 @@ package com.etl;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingDeque;
-
+ 
 import com.etl.database.DatabaseManager;
 
 public class Consumer implements TopicObserver {
